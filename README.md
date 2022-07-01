@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Oleg
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript, React and Redux
+### Hi, I’m Oleg Zaporozhets
+### I’m Frontend developer
 
 <!---
 NimbleNinja/NimbleNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

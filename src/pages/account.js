@@ -8,7 +8,7 @@ const Page = () => (
   <>
     <Head>
       <title>
-        Account | Devias Kit
+        Account | Oleg Zaporozhets
       </title>
     </Head>
     <Box
@@ -22,7 +22,7 @@ const Page = () => (
         <Stack spacing={3}>
           <div>
             <Typography variant="h4">
-              Account
+              About me
             </Typography>
           </div>
           <div>

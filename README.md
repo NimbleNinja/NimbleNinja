@@ -6,7 +6,7 @@ I'm a frontend developer with 3+ years of commercial experience. I work mainly w
 
 ## 🛠 Tech Stack
 - JavaScript / TypeScript  
-- React / React Native  
+- React / Next.js / React Native  
 - Redux / Zustand  
 - HTML / CSS / Tailwind  
 - REST API  

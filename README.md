@@ -21,11 +21,4 @@ I'm a frontend developer with 3+ years of commercial experience. I work mainly w
 
 ---
 
-## 📫 Contacts
-- Email: zaporozhets93@gmail.com  
-- LinkedIn: (add your link)
-- Telegram: (add your username)
-
----
-
 ⭐ Open to new opportunities and collaborations

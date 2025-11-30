@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Oleh 👋
 
-<!--
-**NimbleNinja/NimbleNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer with 3+ years of commercial experience. I work mainly with React and TypeScript. I’ve built web applications, e-commerce projects, and a mobile app using React Native.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- JavaScript / TypeScript  
+- React / React Native  
+- Redux / Zustand  
+- HTML / CSS / Tailwind  
+- REST API  
+- Git  
+
+---
+
+## 📌 What I'm working on
+- Commercial and pet projects  
+- Improving my React and frontend architecture skills  
+- Growing toward Middle+/Senior frontend level
+
+---
+
+## 📫 Contacts
+- Email: zaporozhets93@gmail.com  
+- LinkedIn: (add your link)
+- Telegram: (add your username)
+
+---
+
+⭐ Open to new opportunities and collaborations
